@@ -54,5 +54,6 @@ ModelSim: Used for compiling, simulating, and analyzing the waveform of the ALU 
 Waveform Window (ModelSim): Used for visual inspection of signal transitions.
 
 Conclusion
+
 This ALU project successfully demonstrates the RTL design of a key digital component using Verilog. Through this task, I gained hands-on experience with combinational logic design, simulation-based verification, and waveform analysis. This foundational project strengthened my understanding of hardware design and prepared me for more advanced VLSI modules like RAM, pipelining, and filtering in upcoming tasks of the internship.
 
